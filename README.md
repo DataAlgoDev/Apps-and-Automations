@@ -1,2 +1,3 @@
-# Apps-and-Automations
-Apps and Automations
+# Simple Automations
+
+1. File Handler (Directory organizer)
