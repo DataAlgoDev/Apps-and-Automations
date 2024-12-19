@@ -33,7 +33,7 @@ sub_category = {
 def file_path_creator(file_name, path = curr_path):
     return str(path) + '\\' + file_name
 
-exception_files = ['File_handler.py']
+exception_files = ['File_Handler.py']
 exceptions = set()
 
 # Populating exceptions set
