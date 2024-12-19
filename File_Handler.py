@@ -5,8 +5,8 @@
 # pdf,zip,tar                       -> Documents
 # html,xml,css                      -> Web
 # msi,exe                           -> Application
-# py,js                             -> code
-# jpeg,jpg,png,mov,mp4,mp3,avi      -> media
+# py,js                             -> Code
+# jpeg,jpg,png,mov,mp4,mp3,avi      -> Media
 '''
 import os
 import shutil
